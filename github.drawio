@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T16:36:44.985Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="cwOtvRvhAyZ1a43oK5nG" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-02T16:39:04.557Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="SBLI6deflb5o46FfWtvV" version="21.5.2" type="github">
   <diagram name="Page-1" id="t4P9DuWMOAytNN0drY1X">
     <mxGraphModel dx="1728" dy="1063" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,20 +10,31 @@
         <mxCell id="AWPW2YwmRs-Y318Om_NQ-1" value="&lt;b style=&quot;font-size: 26px;&quot;&gt;GIT HUB&lt;br style=&quot;font-size: 26px;&quot;&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=default;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="279" y="169" width="261" height="156" as="geometry" />
         </mxCell>
-        <mxCell id="AWPW2YwmRs-Y318Om_NQ-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="AWPW2YwmRs-Y318Om_NQ-2" target="AWPW2YwmRs-Y318Om_NQ-5">
+        <mxCell id="AWPW2YwmRs-Y318Om_NQ-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="AWPW2YwmRs-Y318Om_NQ-2" target="AWPW2YwmRs-Y318Om_NQ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AWPW2YwmRs-Y318Om_NQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="AWPW2YwmRs-Y318Om_NQ-2" target="AWPW2YwmRs-Y318Om_NQ-7">
+        <mxCell id="AWPW2YwmRs-Y318Om_NQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.115;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AWPW2YwmRs-Y318Om_NQ-2" target="AWPW2YwmRs-Y318Om_NQ-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWPW2YwmRs-Y318Om_NQ-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AWPW2YwmRs-Y318Om_NQ-2" target="AWPW2YwmRs-Y318Om_NQ-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="711" y="153" />
+              <mxPoint x="876" y="153" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="AWPW2YwmRs-Y318Om_NQ-2" value="Create SSH keygen" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="651" y="38" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AWPW2YwmRs-Y318Om_NQ-5" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="851" y="-55" width="120" height="80" as="geometry" />
+          <mxGeometry x="851" y="-55" width="183" height="94" as="geometry" />
         </mxCell>
         <mxCell id="AWPW2YwmRs-Y318Om_NQ-7" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="927" y="104" width="120" height="80" as="geometry" />
+          <mxGeometry x="851" y="53" width="204" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="AWPW2YwmRs-Y318Om_NQ-10" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="882.5" y="173" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
