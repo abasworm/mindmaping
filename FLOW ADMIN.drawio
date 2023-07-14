@@ -1,9 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T07:18:03.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.1" etag="KNRVE5TLqIBxAOUr4OdY" type="github">
-  <diagram name="Page-1" id="JH4biTIsZSVjb6IosrdY">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-07-14T09:17:58.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="omlz3gJq1XxWpusDEy-K" version="21.6.1" type="github" pages="2">
+  <diagram name="FLOW Delivery Notes" id="JH4biTIsZSVjb6IosrdY">
+    <mxGraphModel dx="1195" dy="645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6BUe0aq8VaEj2AFBNeVo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6BUe0aq8VaEj2AFBNeVo-1" target="6BUe0aq8VaEj2AFBNeVo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6BUe0aq8VaEj2AFBNeVo-1" value="Dockumen di input di aplikasi yang sudah di sediakan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6BUe0aq8VaEj2AFBNeVo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6BUe0aq8VaEj2AFBNeVo-3" target="6BUe0aq8VaEj2AFBNeVo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6BUe0aq8VaEj2AFBNeVo-3" value="Aplikasi menerima excel yang di kirim atau di upload oleh partner" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6BUe0aq8VaEj2AFBNeVo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6BUe0aq8VaEj2AFBNeVo-5" target="6BUe0aq8VaEj2AFBNeVo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6BUe0aq8VaEj2AFBNeVo-5" value="list tiket partner secara otomatis terinput pada applikasi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6BUe0aq8VaEj2AFBNeVo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6BUe0aq8VaEj2AFBNeVo-7" target="6BUe0aq8VaEj2AFBNeVo-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6BUe0aq8VaEj2AFBNeVo-7" value="print delivery note pada aplikasi, dan tempelkan pada amplop yang akan di kirim" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="325" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6BUe0aq8VaEj2AFBNeVo-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6BUe0aq8VaEj2AFBNeVo-9" target="6BUe0aq8VaEj2AFBNeVo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6BUe0aq8VaEj2AFBNeVo-9" value="document di kirim" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6BUe0aq8VaEj2AFBNeVo-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6BUe0aq8VaEj2AFBNeVo-11" target="6BUe0aq8VaEj2AFBNeVo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6BUe0aq8VaEj2AFBNeVo-11" value="ketika document di terima maka admin input delivery note" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6BUe0aq8VaEj2AFBNeVo-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6BUe0aq8VaEj2AFBNeVo-13" target="6BUe0aq8VaEj2AFBNeVo-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6BUe0aq8VaEj2AFBNeVo-13" value="Admin mengecek hasil delivery note, dicocokan dengan document yg dikirim" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6BUe0aq8VaEj2AFBNeVo-15" value="document yang sudah sesuai maka di verifikasi oleh tim admin dengan menceklst documen dengan data yang sudah sesuai" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="h11eK0bh2Prao1ZEgihl" name="Page-2">
+    <mxGraphModel dx="1675" dy="1265" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="asH2wT3sLx7sVno17job-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="asH2wT3sLx7sVno17job-1" target="asH2wT3sLx7sVno17job-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-507" y="-735" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="asH2wT3sLx7sVno17job-2" target="asH2wT3sLx7sVno17job-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-297" y="-575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="asH2wT3sLx7sVno17job-2" target="asH2wT3sLx7sVno17job-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-2" value="Document dengan Delivery Note sampai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-357" y="-725" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="asH2wT3sLx7sVno17job-6" target="asH2wT3sLx7sVno17job-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-6" value="From&lt;br&gt;Partner" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-517" y="-547" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="asH2wT3sLx7sVno17job-7" target="asH2wT3sLx7sVno17job-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-7" value="From DN&lt;br&gt;Engineer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-172" y="-547" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="asH2wT3sLx7sVno17job-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-132" y="-269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-9" value="Verifikasi Dengan List Engineer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-192" y="-398" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-10" value="Verifikasi data dengan Delivery Note" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-537" y="-398" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-15" value="List" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-192" y="-236" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
