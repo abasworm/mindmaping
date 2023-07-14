@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T09:17:58.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="omlz3gJq1XxWpusDEy-K" version="21.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-14T10:19:10.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="obFRNhXpccvslVqg_9KI" version="21.6.1" type="github" pages="2">
   <diagram name="FLOW Delivery Notes" id="JH4biTIsZSVjb6IosrdY">
     <mxGraphModel dx="1195" dy="645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h11eK0bh2Prao1ZEgihl" name="Page-2">
-    <mxGraphModel dx="1675" dy="1265" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1995" dy="1445" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="asH2wT3sLx7sVno17job-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-507" y="-735" width="80" height="80" as="geometry" />
+          <mxGeometry x="-517" y="-735" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="asH2wT3sLx7sVno17job-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="asH2wT3sLx7sVno17job-2" target="asH2wT3sLx7sVno17job-6">
           <mxGeometry relative="1" as="geometry">
@@ -94,11 +94,44 @@
         <mxCell id="asH2wT3sLx7sVno17job-9" value="Verifikasi Dengan List Engineer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-192" y="-398" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="asH2wT3sLx7sVno17job-10" target="asH2wT3sLx7sVno17job-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="asH2wT3sLx7sVno17job-10" value="Verifikasi data dengan Delivery Note" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-537" y="-398" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="asH2wT3sLx7sVno17job-15" value="List" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-192" y="-236" width="120" height="60" as="geometry" />
+        <mxCell id="asH2wT3sLx7sVno17job-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="asH2wT3sLx7sVno17job-15" target="asH2wT3sLx7sVno17job-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-15" value="Input list No Fe Report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-192" y="-269" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="asH2wT3sLx7sVno17job-16" target="asH2wT3sLx7sVno17job-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-16" value="Document Prepare" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-537" y="-269" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="asH2wT3sLx7sVno17job-21" target="asH2wT3sLx7sVno17job-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-21" value="Memisahkan straples di ganti menggunakan clip" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-537" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="asH2wT3sLx7sVno17job-23" target="asH2wT3sLx7sVno17job-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-23" value="Tambahkan Separator Document" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-192" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="asH2wT3sLx7sVno17job-25" target="asH2wT3sLx7sVno17job-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-25" value="Scanning Document" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="asH2wT3sLx7sVno17job-27" value="Input Scanned Document" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-537" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
